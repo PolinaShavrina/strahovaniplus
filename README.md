@@ -34,4 +34,4 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/your-repo/insurance-plus.git
+   git clone https://github.com/PolinaShavrina/strahovaniplus.git
